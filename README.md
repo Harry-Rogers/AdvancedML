@@ -2,10 +2,8 @@
 
 ## TODO
 
-MASK_RCNN 
+Rework quantization model
 
-Detectron 2
+Work into Tensorboard
 
-KNN
-
-Plot graphs
+Clean dir up.
