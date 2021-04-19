@@ -2,24 +2,16 @@
 
 ## TODO Task 1
 
-Rework quantization model
-
-Work into Tensorboard
-
-Clean dir up.
-
-Add in flask usage? Argue this is a way to deploy all of them?
+Write report
 
 ## Task 2
 
-Add Gru (ws_code)
+Add baseline code
 
-LSTM from torch
+Add LSTM version
 
-RNN from torch
+BERT wont work due to lack of data
 
-Any other methods as well could try Gru in torch?
+Can we do something similar?
 
-Quantisation for above?
-
-Can I deploy w/ flask?
+Quanization as well for one model
