@@ -2,6 +2,8 @@
 
 ## TODO Task 1
 
+Push resnet18.pt from local 
+
 Write report
 
 ## Task 2
