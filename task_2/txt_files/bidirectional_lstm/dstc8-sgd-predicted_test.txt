@@ -1,0 +1,980 @@
+i have found $count songs you will help you . how about the song $song name by $artist in the album $album is $song name by $artist in the album $album is $song name by $artist in the album 
+this song is from the year $year . 
+can i play the music now ? 
+great ! can you confirm the song is now . 
+it s playing now . enjoy ! 
+have a great day . <eod> 
+what about the song $song name by $artist from the album $album ? 
+it came out in $year . 
+please confirm : play $song name on $playback device . 
+please confirm : playing $song name on the $playback device . 
+playing now . 
+anything else ? 
+enjoy the rest of your day ! <eod> 
+how about $song name by $artist from the album $album ? 
+should i play $song name on the tv is that correct ? 
+just to make sure , you want to play $song name on $playback device ? 
+song started playing now . 
+can i help you with anything else ? 
+found $count songs for you . 
+please verify the following information : play $song name on $playback device . 
+the song has begun . 
+have a nice day . <eod> 
+how about $song name by $artist from the album $album . 
+the genre is $genre . 
+shall i play it now ? 
+you want me to play $song name on the $playback device ? 
+here you go . 
+is there anything else i can help with ? 
+no problem , enjoy your day . <eod> 
+how about $song name by $artist from the album $album ? 
+do you want to play the song ? 
+you want to play $song name on the $playback device . 
+should i play the song ? 
+yes , it was released in $year . 
+have a wonderful day . <eod> 
+sure , i found $count song for you . how about $song name from the album $album by $artist ? 
+yes . it s from $year 
+the genre is $genre . 
+do you want to play the song for you music now ? 
+i am about to play $song name on your $playback device . is that right ? 
+you re welcome . enjoy the song . 
+is there anything else i can help with ? 
+have a wonderful day . <eod> 
+i have $count songs you may enjoy . $song name by $artist from the album $album . 
+it was released in $year . 
+please confirm that you would like to play $song name on your $playback device . 
+please confirm : playing $song name on the $playback device ? 
+the song is now playing . 
+it is from $year . 
+anything else i can help you with ? 
+no problem , have a great day . <eod> 
+sure , found $count songs for you , from the album $album . 
+so , play $song name on the $playback device ? 
+you want me to play $song name on the $playback device . is that right ? 
+you want to play $song name on the $playback device ? 
+it is a $genre song . please enjoy ! 
+you re welcome ! have a good day ! <eod> 
+i have found $count songs you might enjoy . how about $song name by $artist from the album $album ? 
+i have $count songs , would you like to hear $song name by $artist from the $album album . 
+do you want to play it now ? 
+confirm that you want to play $song name on $playback device . 
+please verify the following information : cast $song name on kitchen speaker . 
+do you want me to play it for you . 
+have a pleasant afternoon . <eod> 
+sure , i have found $count song that you like it . 
+your song released in $year has started playing . 
+you want to play $song name on the $playback device , is that right ? 
+the song is now playing 
+is there anything else i can help with ? 
+here is $count song you would like to hear $song name by $artist from the album $album . 
+i found $count songs that you might like . 
+how about $song name by $artist from the album $album . 
+should i play $song name on $playback device ? 
+the song has begun . 
+so , i will play $song name on the $playback device ? 
+the song is now playing . 
+is there anything else i can assist you with anything else ? 
+sure , please verify the weather like $song name by $artist in the album $album ? 
+it came out in $year . 
+please confirm to play $song name on $playback device . 
+would you like to play this song ? 
+anything else i can help you with ? 
+how about $song name by $artist off of the $album album ? 
+do you want me to play the music ? 
+the song is beginning . 
+please confirm : playing $song name on $playback device . 
+the song is from $year . 
+anything else i can do for you ? 
+have a wonderful day . <eod> 
+i found $count songs you may enjoy . how about $song name from the $artist album $album ? 
+the song is now playing 
+please confirm that you want to play $song name on $playback device . 
+confirm playing $song name on the $playback device ? 
+have a good day . <eod> 
+i have found $count song that you might like . how about the song $song name by $artist in album $album . does that sound like what you would like it s on the album $album . does that 
+great , please confirm : playing the song for you now ? 
+playing the song . 
+i will start playing the music . 
+the song is now playing . 
+enjoy your day . <eod> 
+song $song name by $artist in album $album . 
+can you please enjoy the song $song name on $playback device ? 
+please confirm the following details : play $song name on $playback device 
+please confirm : playing $song name on the $playback device . 
+yes , it was released in $year . 
+okay , have a good rest of the day . <eod> 
+sure , how about $song name by $artist in their album $album ? 
+yup , it s a $genre song from $year . 
+is there anything else i can play it ? 
+the song is now playing 
+please confirm : playing $song name on the $playback device ? 
+your music has begun ! 
+is there anything else i can do ? 
+have a nice day . <eod> 
+i found $count songs you might enjoy . how about $song name from the $artist album $album ? 
+should i play $song name on the bedroom speaker ? 
+yes , it was released in the album $album ? 
+is there anything else i can help you with ? 
+have a nice day . <eod> 
+i found $count song you would like to listen to $song name by $artist from the album $album ? 
+is there anything else i can help you with ? 
+ok , please confirm playing $song name on your $playback device . 
+yes , it s from the album $album by $artist . 
+is there anything else i can do ? 
+have a nice day . <eod> 
+sure , i have found $count songs for you . do you want to hear $song name by $artist in his $album album . 
+it s a $genre song . 
+i have found $count songs you may like . how about $song name by $artist in her album $album ? 
+would you like to play this song ? 
+okay , enjoy the music . 
+it s a $genre song from $year . 
+is there anything else i can help with ? 
+have a wonderful day ! <eod> 
+what about $song name by $artist from the album $album ? 
+from the album $album by $artist , i have the song $song name . 
+that it s a $genre song from $year . 
+the song is starting . 
+okay . so , you want me to play $song name on your $playback device . 
+please confirm the following details : playing $song name on the $playback device . 
+the song is now . 
+have a good day . <eod> 
+have a great day . <eod> 
+what about the song $song name by $artist from the $album album ? 
+the song is now playing 
+started playing african beauty on the bedroom speaker . 
+started playing the song now 
+it s labeled as a $genre song . 
+anything else you need from me before i help you in anything else ? 
+enjoy the rest of your day ! <eod> 
+i found a song . the song is $song name by $artist from $album ? 
+shall i play it now ? 
+confirm playing $song name on the $playback device ? 
+okay , so you want $song name played on the $playback device , is that right ? 
+ok . you want to play $song name on the $playback device ? 
+your music has begun ! 
+your e welcome , have a good day . <eod> 
+i found $count songs you may like . how about $song name by $artist from the album $album ? 
+do you want me to play the song ? 
+confirm playing $song name on the $playback device ? 
+sure . happy for me to play $song name on your $playback device ? 
+the song $song name on the $playback device . 
+it s a $genre song . 
+have a good day . <eod> 
+sure , please ? 
+the average temperature for the day will be $temperature degrees fahrenheit with an average temperature for the day will be $temperature degrees fahrenheit with an average temperature for the day will be $temperature degrees fahrenheit with an average temperature 
+is there anything else i can assist you with something else ? 
+the average temperature should be $temperature degrees with a $precipitation percent chance of rain . 
+have a lovely day . <eod> 
+sure , the average temperature should be $temperature degrees . 
+will be happy to be all ? 
+have a nice day . <eod> 
+what city should be checked ? 
+the average temperature of $city has an average temperature of $city has an average temperature of $city has an average temperature of $city has an average temperature of $city has an average temperature of $city has an average temperature 
+is there anything else i can help you with anything else . 
+cheers . <eod> 
+sure , what about which city ? 
+the temperature for the day will be $temperature degrees fahrenheit with an $precipitation percent chance of rain . 
+the average temperature for the day should be $temperature degrees fahrenheit . 
+goodbye . <eod> 
+the average temperature for the day is $temperature degrees fahrenheit is the average temperature for the day is $temperature degrees fahrenheit is the average temperature for the day is $temperature degrees fahrenheit is the average temperature for the day 
+the wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average 
+anything else i can help you with ? 
+have a nice day . <eod> 
+the average temperature will be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+$wind miles per hour is the average wind will be $wind miles per hour is the average wind will be $wind miles per hour is the average wind will be $wind miles per hour is the average wind will 
+take care . <eod> 
+the average temperature for the day will be $temperature degrees fahrenheit for the day will be $temperature degrees fahrenheit for the day will be $temperature degrees fahrenheit for the day will be $temperature degrees fahrenheit for the day will 
+the temperature of $temperature degrees fahrenheit with a $precipitation percent of the day will be $temperature degrees fahrenheit with a $precipitation percent of the day will be $temperature degrees fahrenheit with a $precipitation percent of the day will be 
+enjoy the music . <eod> 
+in which city do you wish to check the weather ? 
+the average temperature for the day with a nice $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the average wind speed is expected to be around $humidity percent . 
+take care . enjoy the rest of your day . <eod> 
+sure , for which city should i check ? 
+$temperature degrees fahrenheit is the average temperature should be $temperature degrees fahrenheit is the average temperature should be $temperature degrees fahrenheit is the average temperature should be $temperature degrees fahrenheit is the average temperature should be $temperature degrees fahrenheit 
+is there anything else you need ? 
+cheers , have a nice day . <eod> 
+what city do you need ? 
+the average temperature for the day with a nice $temperature degrees with a $precipitation percent chance of rain . 
+sure . what is also a $precipitation percent possibility of rain . 
+is there anything else i can help you with anything else . 
+okay , enjoy your day . <eod> 
+the average temperature for the day is $temperature degrees fahrenheit is the average temperature for the day is $temperature degrees fahrenheit is the average temperature for the day is $temperature degrees fahrenheit is the average temperature for the day 
+the average temperature of the day is the average . 
+take care . <eod> 
+what city should i check ? 
+it will be a nice $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+there anything else that i can assist with anything else ? 
+the average wind speed of $wind miles per hour . 
+anything else you need ? 
+anything else you need anything else ? 
+the weather forecast for the day should be $temperature degrees fahrenheit with the weather forecast for the day should be $temperature degrees fahrenheit with the weather forecast for the day should be $temperature degrees fahrenheit with the weather forecast 
+it will be $temperature degrees fahrenheit . will be $precipitation percent chance of rain . 
+marshall on that date the average temperature is expected to be around $temperature degrees fahrenheit , and there will be a $precipitation percent chance of rain . 
+the average wind speed is low at $wind miles an average wind speed is low at $wind miles an average wind speed is low at $wind miles an average wind speed is low at $wind miles an average wind 
+have a nice day . <eod> 
+have a nice day <eod> 
+sure . what city s weather do you need to know ? 
+the temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+sure , it will be $temperature degrees fahrenheit with a $precipitation percent chance that it will be $temperature degrees fahrenheit with a $precipitation percent chance that it will be $temperature degrees fahrenheit with a $precipitation percent chance that it 
+it was a $precipitation percent possibility that detail is reported that is expected to hope you enjoy it . <eod> 
+the average temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the humidity is expected to be around $humidity percent . 
+the wind average speed should be $wind miles per hour and humidity is $humidity percent . 
+have a lovely day . <eod> 
+the average day temperature is $temperature degrees fahrenheit . 
+the average temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the wind in the wind in the wind in the wind in the wind in the wind in the wind in the wind in the wind in the wind in the wind in the wind in the wind in 
+have a nice day . <eod> 
+which city do you want to check ? 
+the average temperature for the day should be $temperature degrees fahrenheit . there is a $precipitation percent chance that it will rain . 
+take care . <eod> 
+sure , i need to know the average temperature for the day . 
+it will be around $humidity percent . <eod> 
+the humidity will be around $humidity percent . 
+have a nice day . <eod> 
+sure . where you would like to check the weather forecast ? 
+the average temperature for the day is $temperature degrees and there is a $precipitation percent chance of rain . 
+the forecast wind speed should be around $humidity percent . 
+have a good day . <eod> 
+take care have a great day <eod> 
+what else can i look in ? 
+the average temperature of $temperature degrees fahrenheit , and there is also a $precipitation percent chance of rain . 
+is there anything else you need ? 
+so be happy <eod> 
+sure , the average temperature today will be $temperature degrees fahrenheit . 
+the humidity will be about $humidity percent . 
+anything else you need ? 
+goodbye my pleasure . have a great day ahead . <eod> 
+the average temperature is $temperature degrees with a $precipitation percent chance of rain . 
+the average temperature of $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+have an enjoyable day . <eod> 
+the average temperature should be $temperature degree fahrenheit with a $precipitation percent chance of rain . 
+$date the day will be $temperature degrees fahrenheit . 
+the average temperature for the day will be $temperature degrees fahrenheit with an $precipitation percent chance of rain . 
+is there anything else you need ? 
+take care have a great day <eod> 
+sure that the average temperature for the day will be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+sure , it will be $temperature degrees fahrenheit . 
+take care at $event time . <eod> 
+$date in $city , the average high of $temperature degrees fahrenheit , and there will be a $precipitation percent chance of rain . 
+can i help with anything else ? 
+take care have a good day . <eod> 
+the average temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain 
+$wind miles per hour is the average wind speed is around $humidity percent . 
+the average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind average wind 
+is there anything else ? 
+cheers for now . <eod> 
+the average temperature should be $temperature degrees fahrenheit . there it is $precipitation percent chance of rain . 
+the humidity is forecast at $humidity percent . 
+the average temperature for the day will be $temperature degrees fahrenheit with an $precipitation percent chance of rain . 
+have a nice day . <eod> 
+the average temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+it looks like the average wind speed is expected to be around $humidity percent . 
+the average temperature should be $temperature degrees fahrenheit with $precipitation percent chance of rain . 
+take care have a $precipitation percent day . <eod> 
+the average temperature today is $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the average temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the average wind speed is expected to be around $wind miles per hour . 
+is there anything else ? 
+you re welcome ! <eod> 
+what city should i check ? 
+the average high is $temperature degrees fahrenheit , and there is a $precipitation percent chance it will rain . 
+sure , it will be about an average of $temperature degrees . 
+have a good day . <eod> 
+can you name the weather ? 
+the average temperature of $city has an average temperature of $city has an average temperature of $city has an average temperature of $city has an average temperature of $city has an average temperature of $city has an average temperature 
+$wind miles per hour is the average wind will be $temperature degrees fahrenheit . 
+anything else ? 
+have a nice day . <eod> 
+what city should i check ? 
+the average temperature for the day is $temperature degrees fahrenheit . 
+the average temperature is $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the humidity is at $event time . 
+have a good day . <eod> 
+the average temperature for ? 
+the average temperature for the day is around $humidity percent . 
+it is a $genre song . 
+the average temperature is expected to be $temperature degree fahrenheit . 
+the humidity is expected to be about $humidity percent . 
+anything else . <eod> 
+which city should be $temperature degrees fahrenheit . 
+$temperature degrees fahrenheit and the chances of rain 
+$wind miles per hour is the average wind speed is around $humidity percent . 
+it will be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+is there anything else you need ? 
+any other thing ? 
+the average temperature should be $temperature fahrenheit with a $precipitation percent chance of rain . 
+the average wind speed is $wind mile per hour on average speed is $wind mile per hour on average speed is $wind mile per hour on average speed is $wind mile per hour on average speed is $wind mile 
+humidity is around $humidity percent . 
+it will be $temperature degrees fahrenheit with a $precipitation percent chance it will rain . 
+take care have a good day . <eod> 
+what date do you want to check ? 
+the average temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+$wind miles per hour is the average wind will be $wind miles per hour is the average wind will be $wind miles per hour is the average wind will be $wind miles per hour is the average wind will 
+$wind miles per hour . 
+is there anything else you need ? 
+the average temperature will be $temperature degrees fahrenheit for that day . 
+it will be $temperature degrees fahrenheit , and there is a $precipitation percent chance it will be $temperature degrees fahrenheit , and there is a $precipitation percent chance it will be $temperature degrees fahrenheit , and there is a 
+the humidity will be around $humidity percent . 
+the humidity is expected to be around $humidity percent . 
+have a good day . <eod> 
+the average temperature should be $temperature degrees fahrenheit . 
+the average temperature is expected to be around $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+$wind miles per hour on average . 
+the average temperature is expected to be $temperature degree fahrenheit with a $precipitation percent chance of rain . 
+take care . <eod> 
+the average temperature for the day will be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the average temperature is $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the average temperature of $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the humidity is expected to be around $humidity percent . 
+is there anything else you need ? 
+cheers . <eod> 
+the average temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the average temperature is expected to be $temperature degrees fahrenheit with a $precipitation percent possibility of rain . 
+the average temperature should be $temperature degrees fahrenheit with an $precipitation percent chance of rain . 
+do you need anything else ? 
+goodbye my pleasure . have a great day ahead . <eod> 
+the average temperature in $city for the day should be $temperature degrees fahrenheit , and there is a $precipitation percent chance of rain . 
+the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city 
+the average wind speed should be around $humidity percent . 
+take care have a great day <eod> 
+yes , for which city should i check ? 
+there is a $precipitation percent chance of rain . 
+there is also a $precipitation percent chance of rain . 
+is $humidity percent . 
+have a nice day ! <eod> 
+sure . what city s weather do you need to know ? 
+the humidity is expected to be around $temperature degrees fahrenheit , and there is also have an average temperature for the day . 
+the humidity is expected to be around $humidity percent . 
+the humidity is expected to be around $humidity percent . 
+the average temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+take care have a good day <eod> 
+yes . 
+the average temperature for the day is $temperature degrees fahrenheit . there is a $precipitation percent chance of rain . 
+the humidity is expected to be around $humidity percent . 
+the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city , the temperature in $city 
+thank you . <eod> 
+which city do you want to check ? 
+the average temperature for the day should be $temperature degrees fahrenheit , with an $precipitation percent chance of rain . 
+the humidity is expected to be around $humidity percent . 
+$wind miles per hour is the average wind will be $wind miles per hour is the average wind will be $wind miles per hour is the average wind will be $wind miles per hour is the average wind will 
+is there anything else you need ? 
+sure , where you would like to check the weather ? 
+the temperature for your requested day will be around $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the humidity is expected to be about $wind miles per hour . 
+the average of $temperature degrees fahrenheit , and the humidity is expected to be $temperature degrees fahrenheit , and the humidity is expected to be $temperature degrees fahrenheit , and the humidity is expected to be $temperature degrees fahrenheit 
+your welcome . have a nice day . <eod> 
+take care . <eod> 
+sure , it ll be about $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the wind should be around $humidity percent . 
+the average temperature is $temperature degrees f with a $precipitation % chance of rain . 
+do you need anything else . 
+take care . <eod> 
+the average day temperature need to day temperature need to day temperature need to day temperature need to day temperature need to day temperature need to day temperature need to day temperature need to day temperature need to day 
+$wind miles per hour is the average wind speed is $wind miles per hour is the average wind speed is $wind miles per hour is the average wind speed is $wind miles per hour is the average wind speed 
+the average temperature should be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the average wind speed is expected to be around $humidity percent . 
+take care have a great day <eod> 
+how about $song name by $artist in the album $album ? 
+would you like to play the song ? 
+what else that song is that song matching that song is the song is that song is a $genre song . 
+the average temperature will be $temperature degrees fahrenheit . 
+sure , it will be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+sure ! i will do that is that correct ? 
+that song was released in the year $year . 
+enjoy your day . <eod> 
+i found $count song you would like $song name by $artist from the album $album . 
+it s a $genre song . 
+your music is playing now . 
+the average temperature of $temperature degrees fahrenheit . 
+i should play $song name through your $playback device ? 
+please confirm that you want to cast $song name on the $playback device . 
+your song will start now . 
+anything else you need ? 
+have a nice day . <eod> 
+there is $count song you would like to hear $song name by $artist from the album $album . 
+the song is a $genre song . 
+the weather will be $temperature degrees with a $precipitation percent chance of rain . 
+absolutely . would you like to play $song name on the $playback device . 
+okay , so , i should play $song name on $playback device . 
+your music is now playing . 
+is there something else i can assist with ? 
+$count song you may enjoy off the $album album by $artist . 
+the song is from $year . 
+yes , you heard $song name on the $playback device , is that correct ? 
+the humidity will be $humidity % . 
+i want me to play $song name on $playback device . 
+i will play $song name on the $playback device , is that correct ? 
+confirm $song name to play in your $playback device . 
+your song will start now . 
+is there anything else i can do for you ? 
+is about $humidity percent . 
+sure , i found $count songs you might like . how about $song name by $artist in $album ? 
+it is considered a $genre song . 
+the average temperature of $temperature degrees . 
+you want to play $song name on $playback device . 
+shall i cast the song now ? 
+have a great day . <eod> 
+found $count songs . how about $song name which is composed by $artist and present in the album $album ? hope you like the same . 
+it is considered a $genre song . 
+wind speed should be $wind mph . 
+sure , it will be around $temperature degrees . 
+the average temperature for that day and $precipitation percent chances of rain . 
+the humidity will be around $humidity percent . 
+sure , humidity is expected to be around $humidity percent . 
+i found $count results for you . do you wish to hear the $artist album $album . 
+you want to cast $song name on your $playback device . 
+anything else you need for now ? 
+have a good day . <eod> 
+there are $count songs according to your interest . how about this song $song name by $artist in album $album ? whether you like song $song name by $artist in album $album ? whether you like song $song name 
+sure , it ll be an average of $temperature degrees . 
+it will be around $wind miles per hour . 
+what city do you want to know the weather ? 
+sure . i have $count songs . 
+song started playing now . 
+goodbye . <eod> 
+i can help you would you like $song name by $artist from the album $album . 
+i need to find not find not find not find not find not at all ? 
+song is playing now . 
+average wind will be $wind miles per hour . 
+you would like to hear $song name on $playback device . 
+please confirm that you want me to play $song name on $playback device ? 
+any other help you with anything else ? 
+can i help with something else ? 
+have a great day . <eod> 
+there are $count songs according to your interest . how about the song $song name by $artist in album $album ? whether you like it ? 
+i will help you with that detail i will help you with that detail i will help you with that detail i will help you with that detail i will help you with that detail i will help you 
+the average temperature for the day is $temperature degrees fahrenheit and there is a $precipitation percent chance of rain . 
+the humidity is $humidity % . 
+please confirm that you wish to hear the song $song name on $playback device . 
+i have started playing the song . 
+have a wonderful day . <eod> 
+i found $count songs for you is in $album album ? 
+the song is now playing . it s a $genre song . 
+it is a $genre song . 
+i found $count songs you may like . 
+do you want to listen to the song now ? 
+please verify the following information : run $song name on $playback device . 
+the temperature in average speed of $temperature degrees fahrenheit with a $genre artist . 
+the weather will be $temperature degrees with a $precipitation percent chance of rain . 
+okay , please confirm that you want me to play $song name on $playback device . is that right ? 
+of course . enjoy the song . enjoy the song . enjoy the song . enjoy the song . enjoy the song . enjoy the song . enjoy the song . enjoy the song . enjoy the song . 
+anything else i can assist you with something else ? 
+the song will now . enjoy the song now . <eod> 
+what are your opinion about $song name by $artist in the album $album ? 
+i would like to play in the $genre category . 
+sure . i found $count songs . 
+playing now . 
+anything else ? 
+enjoy your day . <eod> 
+how about $song name by $artist from the album $album ? 
+would you like to play the song now ? 
+it s weather would like to be $temperature degrees fahrenheit . 
+it should be $temperature fahrenheit with a $precipitation percent chance of rain . 
+the temperature for that day is from the average temperature of $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+you would like to hear $song name from your $playback device ? 
+your music is playing . 
+is there anything else i can do ? 
+have a nice day . <eod> 
+i can think you would like . 
+how about $song name by $artist in the album $album ? 
+yes , it is from $year . 
+that you want to play $song name on the $playback device , right ? 
+your song will start now . 
+have a great day . <eod> 
+i found $count song you would like $song name by $artist from the album $album . 
+it is considered a $genre song . 
+the genre is $genre . 
+you would like $song name played on the $playback device ? 
+your song has started . 
+have a nice day ! <eod> 
+i found $count songs . perhaps $song name by $artist from the album $album ? 
+the song is now . 
+average temperature for that day and there will be a $precipitation percent chance it will rain . 
+sure . i suggest $song name on the $playback device . is from the album $album ? 
+your song will start now . 
+alright , have a nice day ! <eod> 
+i found $count song for you , i found $count song for you , i found $count song for you , i found $count song for you , i found $count song for you , i found $count song 
+enjoy the rest of your day . <eod> 
+sure . there is a $precipitation percent chance of rain . 
+the humidity will be at $humidity percent . 
+yes , please confirm the following : do you wish to hear $song name by $artist from the album $album ? 
+okay , please confirm your action to play $song name on $playback device . 
+i found $count songs for you , i found $count songs for you , i found $count songs for you , i found $count songs for you , i found $count songs for you , i found $count songs 
+have a pleasant afternoon . <eod> 
+have a nice day . <eod> 
+i found $count songs you might like . how about the song $song name by $artist from the album $album ? 
+it s a $genre song . 
+how about $song name by $artist from the album $album . 
+it is considered a $genre song . 
+i have $count songs . how about $song name by $artist in the album $album ? 
+the humidity will be $temperature degrees fahrenheit , and the humidity will be $temperature degrees fahrenheit , and the humidity will be $temperature degrees fahrenheit , and the humidity will be $temperature degrees fahrenheit , and the humidity will 
+the average temperature for that date ought to be $temperature degrees fahrenheit , and there is a $precipitation percent likelihood it will rain . 
+sure . are you confirming that you want to hear $song name on $playback device . 
+you want me to cast $song name on the $playback device . is that right ? 
+your song has started . 
+is there anything else i can help you with something else ? 
+there are $count songs according to your interest . how about the song $song name by $artist in album $album ? whether you like it ? 
+shall i play the song now ? 
+the average temperature is for an average temperature is expected to be $temperature fahrenheit . 
+sure . you want to hear $song name on your $playback device ? 
+your music is playing . 
+alright , have a great day ! <eod> 
+found $count songs . 
+shall i play the song for you now ? 
+i found $count songs . $song name by $artist from the album $album . 
+the temperature will be around $temperature degrees fahrenheit with a $precipitation percent chance of $song name by $artist in the album the song is the weather will be around $temperature degrees fahrenheit with a $precipitation percent chance of $song 
+it will be $temperature degrees fahrenheit on average for that day and there is a $precipitation percent chance it will rain . 
+i found $count songs for you . 
+your song will start now . 
+anything else i can find any other assistance ? 
+very much welcome ! <eod> 
+i have found $count songs i suggest $song name by $artist from the album $album . 
+i suggest $song name on the $playback device . 
+i found $count songs . 
+i found $count song for you . 
+it will be $temperature degrees fahrenheit on average for that day and there is a $precipitation percent chance it will rain . 
+not playing the song . 
+the weather is from $year . 
+do you want to play $song name on your $playback device , is that correct ? 
+please confirm that you want to play $song name on the $playback device . 
+your song is now playing . 
+yup , it s weather ? 
+is there anything else i can help you with ? 
+have a great day . <eod> 
+how about $song name by $artist from the album $album ? 
+it s considered a $genre song . 
+the average temperature will be $temperature degrees with a $precipitation percent chance of rain . 
+song is playing now . 
+is there anything else you need ? 
+please verify the following information : you wish to hear $song name on $playback device . 
+please confirm : you want to play $song name on bedroom speaker . 
+i should play $song name on the $playback device . 
+the genre is $genre music . 
+have a nice day . <eod> 
+there is $count song that suit you should enjoy . what about $song name by $artist from the album $album ? 
+not really . maybe about $wind mph . 
+yes , it is a $genre song . 
+it will be around $temperature degrees fahrenheit with a $precipitation percent possibility of showers . 
+you would like to play $song name on the $playback device . is that right ? 
+your music is now . 
+have a great day . <eod> 
+i found $count songs . what about $song name by $artist from the album $album ? 
+how about $song name by $artist from the album $album ? 
+it is $genre . 
+please confirm the song is now ? 
+$song name cast to $song name on $playback device . 
+the average temperature for the day is $temperature degrees and it is $temperature degrees and it is $temperature degrees and it is $temperature degrees and it is $temperature degrees and it is $temperature degrees and it is $temperature degrees 
+humidity will be $humidity percent . 
+the humidity is $humidity % . 
+the average temperature for that day should be $temperature degrees fahrenheit with a $precipitation % chances for an average temperature for that day should be $temperature degrees fahrenheit with a $precipitation % chances for an average temperature for that 
+i can play $song name on your $playback device , is your music to your $playback device ? 
+would you like to play the song now ? 
+is there anything i can help with ? 
+have a great day . <eod> 
+sure . i can help you would like . do you like $song name by $artist from the $album album ? 
+it is a $genre song . 
+the music is from $year . 
+should i play it now ? 
+valley ford s average temperature is $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the humidity might be $wind miles per hour . 
+sure , i found $count songs that you ? 
+song is playing . 
+have a nice day <eod> 
+enjoy your day ! <eod> 
+i found $count songs you might like . what about $song name by $artist from $album ? 
+it is $genre . 
+i would classify it is a $genre song . 
+do you want to play $song name on the $playback device ? 
+your song is currently being played . 
+any other help ? 
+have a nice day . <eod> 
+what about your opinion on $song name by $artist in the album $album ? 
+do you want to listen to the music . 
+please verify the forecast of rain . 
+the average temperature in vallejo that day is $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+you want to play $song name on your $playback device . 
+the genre is $genre song . 
+do you want to play now ? 
+have a nice day . <eod> 
+what s your opinion about $song name by $artist in the album $album ? 
+sure , please confirm the details that you want me to play the song $song name on the $playback device . 
+the average temperature is expected to be $temperature degrees f and there is a $precipitation percent chance of rain . 
+i need to play $song name on your $playback device . 
+it is considered a $genre song . 
+enjoy your day . <eod> 
+i found $count . how about $song name by $artist from the album $album . 
+it is playing the song is from $year . 
+the humidity is foretasted to be $humidity % . 
+sure . you want to hear $song name on the $playback device . 
+it is a $genre song . please enjoy the song . please enjoy the song . please enjoy the song . please enjoy the song . please enjoy the song . please enjoy the song . please enjoy the 
+have a great day . <eod> 
+i found $count songs . what about $song name by $artist from the album $album ? 
+the song is from $year . 
+do you want to play the song ? 
+sure , it will be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the average temperature for the day and $precipitation percent chances of rain . 
+the humidity will be $humidity percent with average . the humidity will be $humidity percent with average . the humidity will be $humidity percent with average . the humidity will be $humidity percent with average . the humidity will 
+sure . i found $count song you would like the song $song name on $playback device . 
+do you want to hear $song name on $playback device . 
+have a nice day ! <eod> 
+i found $count songs . 
+yes , it s from $year . 
+i found $song name by $artist from the album $album ? 
+i was able to find $count song for you , i was able to find $count song for you , i was able to find $count song for you , i was able to find $count song for you 
+have a nice day ! <eod> 
+what are your thoughts on $song name by $artist from the album $album ? 
+the music is from $year . 
+are you interested to play the music now ? 
+it was released in the year $year . 
+average $humidity percent . 
+absolutely ! what about a song $song name on the $artist masterpiece album ? 
+your song has started . 
+something else you need ? 
+have a great day . <eod> 
+i found $count songs i found . how about $song name by $artist of the album $album ? 
+it is under the $genre genre . 
+the temperature in $year . 
+the average temperature should be $temperature degrees with a $precipitation percent chance of rain . 
+sure . i found $count song , do you wish to play the song $song name by $artist from the album $album . 
+yes , it is from $year . 
+anything else ? 
+have a nice day . <eod> 
+sure ! i found $count songs for you . 
+sure , i can you like me to play $song name on the $playback device . 
+the average temperature will be $temperature degrees fahrenheit . there is a $precipitation percent chance it will rain . 
+the average wind speed is $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+sure , please confirm your confirmation to play $song name on your $playback device . 
+plays song . 
+is there anything else i can help with ? 
+enjoy your day . <eod> 
+ok , how about $song name by $artist of her $album album ? 
+it ll be $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+the humidity is foretasted to be $humidity percent with average wind speed is $wind mile per hour . 
+i should instead play $song name on the $playback device ? 
+the song has begun . 
+have a nice day . <eod> 
+have a pleasant afternoon . <eod> 
+i found $count song you may like . how about $song name by $artist from the album $album ? 
+it s weather would you like it s weather ? 
+would you like me to play $song name on $playback device ? 
+enjoy the music . enjoy the music . enjoy the music . enjoy the music . enjoy the music . enjoy the music . enjoy the music . enjoy the music . enjoy the music . enjoy the music 
+it will be $temperature degrees . the average temperature for $date , and there is a $precipitation percent chance it will rain . <eod> 
+the humidity will be $wind miles per hour . 
+would the $album album by $artist ? 
+okay , please confirm that you want to hear $song name on the $playback device . 
+you want to play $song name on your $playback device . 
+the song $song name on the $playback device . 
+is there anything else i can assist you with ? 
+have a great day . <eod> 
+i found $count songs you may like . $song name by $artist from the album $album ? 
+i have $count songs that i can help you with something else i can help you with something else i can help you with something else i can help you with something else i can help you with something 
+it ll be around $humidity percent ! <eod> 
+the average temperature of $temperature degrees fahrenheit with $precipitation percent chance of rain . 
+please confirm that you want to play the song $song name on $playback device . 
+the song is a $genre song . 
+have a nice day . <eod> 
+i found $count songs . how about $song name by $artist from the album $album ? 
+do you want to hear the music now ? 
+can i get you prefer $song name by $artist in $city , it will be around $temperature degrees . 
+the average temperature will be $temperature degrees with a $precipitation percent chance of rain . 
+humidity will be around $humidity percent . 
+it is released in vallejo that day is released in average temperature of $temperature degrees . 
+okay , please confirm to play $song name on $playback device . 
+your music has started . 
+have a great day . <eod> 
+do you like to verify the $artist masterpiece album ? 
+song started playing now . 
+there is a $precipitation percent chance of rain . 
+the humidity will be around $humidity percent . 
+play $song name on the $playback device , is that correct ? 
+have a great day . <eod> 
+play now ? 
+have a great day . <eod> 
+sure . how about $song name by $artist in the album $album ? 
+it is $genre . 
+now playing the song . 
+there are $count songs . 
+it is from $year . 
+it will be $temperature degrees fahrenheit , and there is a $precipitation percent likelihood it will rain . 
+the average wind speed is expected to be around $humidity percent . 
+is there anything else i can do for you . 
+yes , it is from $year . 
+please confirm : playing $song name on the $playback device . 
+the genre is $genre and i think it is a $genre song from $year . 
+is there anything else ? 
+have a wonderful day . <eod> 
+i found $count . how about $song name by $artist in $album ? 
+how about $song name by $artist from the album $album ? 
+i found $count songs which is called $song name by $artist from the album $album ? 
+would you like to play that right now ? 
+cast $song name . 
+the average temperature of $temperature degrees fahrenheit with a $precipitation percent chance of rain . 
+okay , please confirm the following : you want to hear $song name on $playback device . 
+you want to play $song name on the $playback device . 
+your song has begun . 
+is there anything else i can help with ? 
+have a good day . <eod> 
+there are $count songs you might like . 
+the song is an $genre song . 
+the average temperature is about $temperature degrees fahrenheit . 
+i will play $song name on the $playback device , is that right ? 
+sure . please confirm to listen to the song $song name to play the song $song name to play the song $song name to play the song $song name to play the song $song name to play the song 
+so , playing $song name on the $playback device , correct ? 
+not at all ? 
+it is considered a $genre song . 
+enjoy the day . <eod> 
+i found $count song for you , $album ? 
+it s song $song name by $artist in the year $year . 
+wind speed will be $wind miles per hour . 
+okay , so you want to play $song name on the $playback device . is that right ? 
+the song is now playing . 
+is there anything i can help with ? 
+enjoy your day . <eod> 
+i found $count . how about $song name by $artist in $album ? 
+it is now playing . 
+valley ford s average high is $temperature degrees fahrenheit , and there is a $precipitation percent chance of rain . 
+humidity is expected to be around $humidity percent . 
+wind speed should be $wind miles an hour . 
+please confirm to play $song name on $playback device . 
+anything else i can help you with something else ? 
+have a nice day . <eod> 
+have a great day . <eod> 
+which is the events ? 
+you have a chunk of available time that starts at $available start time and ends at $available end time . 
+the event is on $event date . 
+what time to this event ? 
+is there anything else i can help you with ? 
+there are $count events scheduled . you have an $event name at $event time . 
+you have a $event name at $event time . 
+i have added it to your calendar . 
+you are available from $available start time to $available end time . 
+enjoy your day . 
+do you want to check ? 
+you have a $event name at $event time . 
+you have an empty slot starting at $available start time slot $event date . 
+yes , you have an empty slot from $available start time to $available end time . 
+do you need help with anything else ? 
+you have $event name starting at $event time . 
+you have $count empty slots on the calendar . one of them is from $available start time to $available end time . 
+would you like to add this event to your calendar ? 
+yes , going to the label the label the average during the day . is the day is the label the average during the day . is the day is the label the average during the day . is 
+which days events would you like to know ? 
+you have an upcoming event $event date . you would be free from $available start time to $available end time 
+you have $count open slots . one is from $available start time to $available end time . 
+is there anything you would like me to do ? 
+okay , enjoy the rest of your day . <eod> 
+sure , what time which dates would you want to check ? 
+there are $count events scheduled on your calendar . you have an $event name at $event time . 
+you have $count empty slots on your calendar . 
+i hope you need anything else . 
+you have $count events scheduled on that you have $event name starting at $event time . 
+you have a $event name starting at $event time . 
+you have $count events scheduled on your calendar . you have $event name at $event time . 
+you currently have $count open spots on your calendar . one is from $available start time to $available end time . 
+event added . 
+have a nice day . <eod> 
+no , you want me to check ? 
+you have an empty slot starting at $event time . 
+you have $event name at $event time . 
+you have $count open slots . one is from $available start time to $available end time . 
+have a great day . <eod> 
+which date do you want to check ? 
+you have $count scheduled events . one of them is $event name at $event time . 
+you have $event name starting at $event time . 
+you re available from $available start time to $available end time . 
+is there anything else i can help ? 
+is there anything else i can assist you with ? 
+for which date ? 
+you have an empty slot from $available start time to $available end time 
+you currently have $count open spots on your calendar . one is from $available start time to $available end time . 
+the event is on your calendar ? 
+sure , what dates would you like me to check ? 
+you have an empty slot from $available start time to $available end time . 
+ok , on $event date you have a slot from $available start time to $available end time . 
+what time and where will it be ? 
+is there anything else you would like . 
+my pleasure . have a great day . <eod> 
+you have an empty slot starting at $available start time and ends at $available end time . 
+you have an empty slot starting at $available start time and ending at $available end time . 
+i can see that $count slots in your calendar . one $count slots in your calendar . one $count slots in your calendar . one $count slots in your calendar . one $count slots in your calendar . one 
+ok , have a good day . <eod> 
+which days events which dates would like to know ? 
+you are free from $available start time to $available end time . 
+you have $event name which starts at $event time . 
+you have $count open slots . one is from $available start time to $available end time 
+do you need to add an event to your calendar ? 
+your welcome , have a good day . <eod> 
+you have $count empty slots . you have a $event name which is $event name which is $event name . 
+you have an $event name at $event time . 
+do you want to add a calendar event ? 
+you are available from $available start time to $available end time . 
+do you want to add a calendar event ? 
+have a great day . <eod> 
+in which date in your calendar ? 
+you have $count events on the event id $event date . 
+you have $count events scheduled on that day . one of which is an $event name at $event time . 
+is there anything else i can help you with ? 
+sure , what you are going to check for the $event date you are going to do for the event you are going to do for the event you are going to do for the event you are going 
+is there anything else i can assist you with anything else . 
+enjoy your day . <eod> 
+i was able to pull diary from $available start time until $available end time 
+you have an $event name at $event time . 
+you have $count empty slots from $available start time to $available end time . 
+is there anything else you need ? 
+your welcome . enjoy your day . <eod> 
+i can see that according to your calendar . you are going to have scheduled for $event time . 
+$event date , you have an empty slot starting at $available start time and ending at $available end time . 
+you are free from $available start time to $available end time . 
+is there anything else i can help you with ? 
+have a good day . <eod> 
+which is the events ? 
+you have $count events scheduled on that date . you are free from $available start time to $available end time . 
+you have a $event name starting at $event time . 
+you have a $event name starting at $event time . 
+you have $count events one of the $event name at $event time . 
+you have a empty slot from $available start time to $available end time . 
+can i help with anything else ? 
+you have a $event name starting at $event time . 
+you are available from $available start time to $available end time . 
+have a good day . <eod> 
+you have a $event name that starts at $event time . 
+you have an empty time slot from $available start time to $available end time . 
+thank you . have a great day . <eod> 
+which dates would you like me to check ? 
+you have $count events scheduled on that date . you are free from $available start time to $available end time . 
+yes you have $count events scheduled on $event date you have going to have free on $event date you have going to have free on $event date you have going to have free on $event date you have going 
+you are available from $available start time to $available end time . 
+you have $count empty slots in from $available start time to $available end time . 
+have a good day . <eod> 
+you have a $event name at $event time . 
+you have a $event time $event name . 
+you are free from $available start time to $available end time . 
+have a great day ! <eod> 
+what date should i check ? 
+you have $count empty slots on that day . there is one between $available start time to $available end time . 
+event added to your calendar . 
+there are $count empty slots on your calendar . 
+your calendar . 
+would you like to do to know about ? 
+you have $count events one . one of which is $event name at $event time . 
+you are free from $available start time to $available end time . 
+anything else i can do for you ? 
+take care have a great day <eod> 
+what date should i check ? 
+there are $count events scheduled . you have an $event name at $event time . 
+you are available from $available start time until $available end time . 
+you have $count open slots . one is from $available start time to $available end time . 
+is there anything else i can help you with ? 
+sure . you are free from $available start time to $available end time . 
+event added to your calendar . 
+you are empty slots on your calendar from $available start time to $available end time . 
+can i add an event to your calendar ? 
+have a great day . <eod> 
+yes , you have a specific date . 
+you have an empty slot starting at $available start time which ends at $available end time . 
+you have an $event name at $event time . 
+you have $count empty slots on the album $album ? 
+event added to your calendar . 
+have a great day . <eod> 
+which date do you want to check ? 
+you have $count empty slots on that day . there is one between $available start time to $available end time . 
+is there anything else you need ? 
+i found $count empty slots on your calendar for the 14th . you don t have anything between $available start time and $available end time . 
+you re also free from $available start time to $available end time . 
+have a good day . <eod> 
+you have arranged an $event name . 
+there is a $event name at $event time . 
+you need to add an event was from $available start time to $available end time . <eod> 
+sure . you would like to check and time ? 
+you are available time to $available end time . 
+yes , what day should i check ? 
+there are $count spots open that day . one empty spot is $available start time to $available end time . 
+you have empty slots on your calendar . you have empty slots on your calendar . you have empty slots on your calendar . you have empty slots on your calendar . you have empty slots on your calendar 
+you are available from $available start time to $available end time . 
+you are free from $available start time to $available end time . 
+how else can i help you today ? 
+i have added it to your calendar . 
+which date do you want me to check ? 
+you have $event name at $event time 
+you also have $count space available time . 
+what is the event is the event , and the event name , and the event name , and the event name , and the event name , and the event name , and the event name , and 
+which date do you want to check ? 
+you have $count empty slots on the event date of $event date from $available start time to $available end time . 
+there is there anything else i can see that you would like to add an event to $available end time . 
+there is also an empty slot from $available start time to $available end time is open 
+there are $count empty slots from $available start time to $available end time . 
+take care . <eod> 
+you have a $event name starting at $event time . 
+you have $count events including a $event name at $event time . 
+you have $count empty slots on your calendar from $available start time to $available end time . 
+is there anything else you need ? 
+which date do you want to check ? 
+ok , on $event date you have a slot from $available start time to $available end time that is empty . 
+you re available from $available start time to $available end time . 
+would you like me to add an event to your calendar ? 
+have a great day . <eod> 
+which date do you want to know ? 
+you have $event name at $event time . 
+you have an empty slot from $available start time to $available end time . 
+you have an empty slot from $available start time to $available end time . 
+you have an empty slot from $available start time to $available end time . 
+is there anything else i can help you with ? 
+enjoy your day . <eod> 
+you have a $event name at $event time . 
+you currently have $count open spots on your calendar . one slot from $available start time to $available end time . 
+do you need to add an event to your calendar ? 
+enjoy your day . <eod> 
+which date do you have a specific date in mind ? 
+you have an $event name at $event time . 
+you have a empty slot from $available start time to $available end time . 
+have a great day . <eod> 
+sure . which city do you need to check for the events in your calendar ? 
+you have $count empty slots that day . one of $event name that you have $count empty slots that day . one of them is an $event name at $event time . 
+you have a $event name at $event time . 
+yes , you have a $event name that starts at $event time . 
+i can see that according to your schedule . you are going to your calendar . you are going to your calendar . you are going to your calendar . you are going to your calendar . you are 
+you have $count open , one i can you like me to find $count empty slots in the $artist , one $count empty slots in the $artist , one $count empty slots in the $artist , one $count empty 
+the event is added . 
+it was my pleasure . enjoy the rest of your day . <eod> 
+which date do you want to check ? 
+you have $count empty slots on that day . there is one between $available start time to $available end time . 
+you have $count empty slots in your calendar from $available start time to $available end time . 
+your calendar . 
+sure , what date do you want me to check ? 
+there are $count events . you have arranged an $event name . 
+you have $count events including a $event name at $event time . 
+you have $count empty slots in your calendar from $available start time to $available end time . 
+have a great day . <eod> 
+you have arranged an $event name starting at $event time . 
+there are $count empty slots on your calendar . you have a empty slot from $available start time to $available end time . 
+have a good day . <eod> 
+you have a $event name starting at $event time . 
+is there anything else i can help you with ? 
+you have a time available from $available start time to $available end time . 
+event added . 
+have a great day . <eod> 
+which dates would you like to check and at which dates would you like to check and at which dates would you like to check and at which dates would you like to check and at which dates would 
+you have $count empty slots on the event date of $event date from $available start time to $available end time . 
+at $event time you have your $event name . 
+you have $count open slots . one is from $available start time to $available end time . 
+you are available from $available start time to $available end time . 
+have a good day . <eod> 
+no problem , enjoy your day . <eod> 
+you have $count empty slots on that day . there is one between $available start time to $available end time . 
+do you want me to add an event to your calendar ? 
+you are free between $available start time to $available end time . 
+i hope you calendar . 
+the events is the events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events scheduled events 
+you have a slot from $available start time to $available end time . 
+you ll be free from $available start time to $available end time . 
+do you want me to add any event to your calendar ? 
+have a nice day <eod> 
+you have $count events scheduled on that day , one of them is an $event name starting at $event time . 
+no , there are no other schedules events for this day . is there anything else i can help you with ? 
+for $event date you re free between $available start time and $available end time . 
+you have $count empty slots on your calendar . you have $count empty slots on your calendar . you have $count empty slots on your calendar . you have $count empty slots on your calendar . you have $count 
+is there anything else i can help you with ? 
+have a great day ! <eod> 
